@@ -9,7 +9,7 @@ do following steps in two different environment
 <p><h3>#1</h3></p>
 
 ```commandline
-git clone ...
+git clone https://github.com/IsmoilovMuhriddin/TwoWaySync.git
 cd TwoWaySync
 ```
 
