@@ -1,0 +1,4 @@
+*.pyc
+virt/
+.idea
+*.sqlite3
